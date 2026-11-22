@@ -1,0 +1,26 @@
+@'
+# Dependencies
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+backend/.env
+frontend/.env
+
+# Build files
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+'@ | Out-File -FilePath ".gitignore" -Encoding utf8
