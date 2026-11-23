@@ -179,6 +179,10 @@ Keep your actual `.env` file private. Never commit database credentials or other
 - Deployment with a live demo.
 - Automated API testing.
 
+## 📸 Project Screenshot
+
+![Lead Manager Application]
+
 ## Author
 
 **Ritesh Tiwari**
