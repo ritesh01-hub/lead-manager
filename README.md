@@ -181,7 +181,7 @@ Keep your actual `.env` file private. Never commit database credentials or other
 
 ## 📸 Project Screenshot
 
-![Lead Manager Application]
+![Lead Manager Application](https://github.com/ritesh01-hub/lead-manager/blob/4bee9baa076fb5f7d8be8b72427b63d8818f4f97/Lead%20Manager%20MERN%20Carousel%20Showcase-2.png)
 
 ## Author
 
